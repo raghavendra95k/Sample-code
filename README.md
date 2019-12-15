@@ -1,2 +1,2 @@
-# Sample-code
-Sample codes
+# To add and delete list item from ul
+
